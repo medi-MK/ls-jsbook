@@ -146,7 +146,7 @@ numbers1.includes(3);
 numbers2.includes(3);
 
 
-numbers3.includes(3);
+numbers3.includes(3)
 
 
 // 10. Write some code to replace the value 6 in the following array with 606:
